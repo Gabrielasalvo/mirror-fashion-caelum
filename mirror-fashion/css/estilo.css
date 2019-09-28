@@ -1,0 +1,10 @@
+p{
+   /* color:red;
+    background-color:blue;*/
+    border-color:green;
+    border-width:10px;
+    border-style:striped;
+    font-family:"Arial", "Times New Roman", serif;
+    text-align:right;
+    background-image:url()
+}
